@@ -91,7 +91,7 @@ function App() {
     <section className="px-32">
     <div className="text-5xl text-center font-bold">Project</div> 
     <div className="grid grid-cols-2 py-10 space-x-5 ">
-      <img src="src\assets\EventM.jpeg" className="p-20 rounded-2xl" />
+      <img src="EventM.jpeg" className="p-20 rounded-2xl" />
       <div className="text flex flex-col justify-center items-start gap-3">
         <div className="text-3xl font-bold">Student Event Management System</div>
         <div className="text-xl text-gray-300">
