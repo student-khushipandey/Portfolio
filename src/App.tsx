@@ -19,7 +19,7 @@ function App() {
     
     {/* Header */}
     <header className="grid grid-cols-1 md:grid-cols-2">
-      <img src="src\assets\kp.jpeg" className="p-20 md:p-32" style={{ width: '500px' }}/>
+      <img src="kp.jpeg" className="p-20 md:p-32" style={{ width: '500px' }}/>
       <div className="text flex flex-col items-center text-center items-start gap-5 justify-center p-20 md:p-32 md:pl-10">
         <div className="text-6xl font-bold">Hii There,
           I'm Khushi Pandey!
