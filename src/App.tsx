@@ -80,7 +80,7 @@ function App() {
     GIT
   </button>
         </div>
-        <img src="src\assets\l.jpeg" className="p-20" />
+        <img src="l.jpeg" className="p-20" />
         </div>
       </div>
     </section>
